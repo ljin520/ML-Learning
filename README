@@ -1,0 +1,8 @@
+Better Together
+
+Many names such as David Madigan and Noah Smith are difficult for search engines such as Semantic Scholar. This exercise provides a visualization to help resolve some of these ambiguities.
+
+Tasks
+Write a program that inputs a name such as Noah Smith and outputs a visualization:
+
+Colab Link: https://colab.research.google.com/drive/1PWu0j1Agt6-f-8uxFyY1eH-wg3eySa4O#scrollTo=5sYe6zDl7_LC
